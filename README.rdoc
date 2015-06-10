@@ -1,4 +1,5 @@
 Test Rails Blog App - Max Stout
+revised 06102015-1630
 
 == README - updated
 
